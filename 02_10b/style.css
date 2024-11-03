@@ -38,7 +38,6 @@ img {
 }
 
 .content img {
-  clip-path: url(#heart);
-  /* For Chrome support, use inline SVG */
-  /* clip-path: url(heart.svg#heart); */
+  -webkit-mask-image: url(heart.svg);
+  mask-image: url(heart.svg);
 }
