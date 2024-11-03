@@ -21,7 +21,9 @@ img {
   width: 75vw;
   height: 60vh;
   border: 1px solid hsl(0, 0%, 75%);
-  background-image: url(https://source.unsplash.com/TFyi0QOx08c/1800x1200);
+  background-image: url("https://img.freepik.com/foto-gratuito/colpo-verticale-di-un-recinto-di-legno-con-alte-scogliere-rocciose-nella-valle-di-funes-st-italia_181624-5964.jpg");
+  background-size: cover;
+  background-position: center top;
 }
 
 .content h1 {
