@@ -28,6 +28,8 @@ img {
   padding: 4rem;
   font-size: 5rem;
   text-align: center;
-  background: url(https://source.unsplash.com/7ne3hNnojvU/1800x1200);
+  background: url(https://img.freepik.com/foto-gratuito/bel-arcobaleno-in-natura_23-2151498273.jpg);
   background-size: cover;
+  background-clip: text;
+  color: transparent;
 }
