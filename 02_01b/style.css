@@ -6,6 +6,7 @@ img {
   display: block;
   width: 100%;
   height: auto;
+  border-radius: 20rem 0 60rem 0;
 }
 
 .container {
