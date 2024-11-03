@@ -2,6 +2,12 @@ body {
   margin: 0;
 }
 
+img {
+  width: inherit;
+  height: inherit;
+  object-fit: scale-down;
+}
+
 .container {
   display: flex;
   height: 100vh;
